@@ -1,16 +1,16 @@
-![](https://github.com/mbta/dotcom/actions/workflows/tests.yml/badge.svg?branch=main)
-![](https://github.com/mbta/dotcom/actions/workflows/deploy-prod.yml/badge.svg)
-![](https://github.com/mbta/dotcom/actions/workflows/deploy-dev.yml/badge.svg)
-![](https://github.com/mbta/dotcom/actions/workflows/deploy-dev-blue.yml/badge.svg)
-![](https://github.com/mbta/dotcom/actions/workflows/deploy-dev-green.yml/badge.svg)
-![](https://github.com/mbta/dotcom/actions/workflows/docker.yml/badge.svg)
-![](https://github.com/mbta/dotcom/actions/workflows/crawler.yml/badge.svg)
-![](https://github.com/mbta/dotcom/actions/workflows/report-coverage.yml/badge.svg)
-![](https://github.com/mbta/dotcom/actions/workflows/shellcheck.yml/badge.svg)
+![](https://github.com/TransitOPS/OpenTransitWebsite/actions/workflows/tests.yml/badge.svg?branch=main)
+![](https://github.com/TransitOPS/OpenTransitWebsite/actions/workflows/deploy-prod.yml/badge.svg)
+![](https://github.com/TransitOPS/OpenTransitWebsite/actions/workflows/deploy-dev.yml/badge.svg)
+![](https://github.com/TransitOPS/OpenTransitWebsite/actions/workflows/deploy-dev-blue.yml/badge.svg)
+![](https://github.com/TransitOPS/OpenTransitWebsite/actions/workflows/deploy-dev-green.yml/badge.svg)
+![](https://github.com/TransitOPS/OpenTransitWebsite/actions/workflows/docker.yml/badge.svg)
+![](https://github.com/TransitOPS/OpenTransitWebsite/actions/workflows/crawler.yml/badge.svg)
+![](https://github.com/TransitOPS/OpenTransitWebsiteactions/workflows/report-coverage.yml/badge.svg)
+![](https://github.com/TransitOPS/OpenTransitWebsite/actions/workflows/shellcheck.yml/badge.svg)
 
-# Dotcom
+# OpenTransitWebsite
 
-The new face of https://www.mbta.com/. 
+Clear, understandable transit information for everyone
 
 ## Supported browsers 
 
